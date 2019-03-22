@@ -21,3 +21,13 @@ img {
     /* height: 100%; */
 }
 
+.talky {
+  text-align: center;
+}
+
+.card {
+  align-self: center;
+  align-content: center;
+
+}
+
